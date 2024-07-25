@@ -1,11 +1,11 @@
 {
-    "name": "JhrokeCamera-DeepFake",
-    "short_name": "JhrokeCamera",
+    "name": "jhlandingpage",
+    "short_name": "jhlandingpage",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "JhrokeCamera: AI-powered FaceSwap for video calls, turning static images into dynamic expressions across popular platforms like Whatsapp, Instagram, Telegram, Facebook, Wechat, Google Chat, Skype and more.",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
@@ -33,5 +33,3 @@
         }
     ]
 }
-
-
